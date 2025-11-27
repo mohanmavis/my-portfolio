@@ -23,6 +23,11 @@ export const HeroSection = () => {
             Building the future, one artifact at a time. Welcome to The Mavis
             Archive.
           </p>
+          <div className="pt-4 opacity-0 animate-fade-in-delay-4">
+            <a className="cosmic-button" href="#projects">
+              View My Work
+            </a>
+          </div>
         </div>
       </div>
 
