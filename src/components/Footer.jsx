@@ -2,13 +2,13 @@ import { ArrowUp } from "lucide-react";
 
 export const Footer = () => {
   return (
-    <footer className="py-12 px-4 bg-card relative boreder-t border-border mt-12 pt-8 flex flex-wrap justify-between items-center">
+    <footer className="py-12 px-4 bg-card relative boreder-t border-border mt-8 pt-8 flex flex-wrap justify-center items-center gap-[1in]">
       <p className="text-sm text-muted-foreground">
         {" "}
         &copy; {new Date().getFullYear()} TheMavisArchieve. All rights reserved.
       </p>
       <a
-        href="#hero"
+        href="#home"
         className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
       >
         <ArrowUp size={20} />
