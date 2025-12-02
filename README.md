@@ -1,16 +1,57 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository! This project is a responsive web application designed to showcase my skills, projects, and professional background.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was built using the following technologies:
 
-## React Compiler
+- **React** - For building the user interface.
+- **Vite** - For fast development and building.
+- **Tailwind CSS** - For modern, responsive styling.
+- **JavaScript (ES6+)** - Logic and functionality.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Features
 
-## Expanding the ESLint configuration
+- **Responsive Design:** Fully functional on mobile, tablet, and desktop devices.
+- **Project Showcase:** A dedicated section to display my recent work.
+- **Smooth Navigation:** Easy-to-use navigation to jump between sections.
+- **Modern UI:** Clean and minimalist aesthetic.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 How to Run Locally
+
+If you want to view this project on your local machine, follow these steps:
+
+1.  **Clone the repository**
+
+    ```bash
+    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
+    ```
+
+2.  **Navigate to the project directory**
+
+    ```bash
+    cd YOUR-REPO-NAME
+    ```
+
+3.  **Install dependencies**
+
+    ```bash
+    npm install
+    ```
+
+4.  **Start the development server**
+
+    ```bash
+    npm run dev
+    ```
+
+5.  Open your browser and visit the local URL provided (usually `http://localhost:5173`).
+
+---
+
+## 🙏 Credits & Acknowledgments
+
+A special thanks to **PedroTech**. This portfolio was built by following his educational content and tutorials, which served as the foundation for this project.
+
+- **Inspiration:** [PedroTech YouTube Channel](https://www.youtube.com/@PedroTechnologies)
